@@ -1,0 +1,10 @@
+C:\Users\Bruno\source\repos\DemoReactTutorial\DemoReactTutorial\bin\Debug\netcoreapp2.0\DemoReactTutorial.deps.json
+C:\Users\Bruno\source\repos\DemoReactTutorial\DemoReactTutorial\bin\Debug\netcoreapp2.0\DemoReactTutorial.runtimeconfig.json
+C:\Users\Bruno\source\repos\DemoReactTutorial\DemoReactTutorial\bin\Debug\netcoreapp2.0\DemoReactTutorial.runtimeconfig.dev.json
+C:\Users\Bruno\source\repos\DemoReactTutorial\DemoReactTutorial\bin\Debug\netcoreapp2.0\DemoReactTutorial.dll
+C:\Users\Bruno\source\repos\DemoReactTutorial\DemoReactTutorial\bin\Debug\netcoreapp2.0\DemoReactTutorial.pdb
+C:\Users\Bruno\source\repos\DemoReactTutorial\DemoReactTutorial\obj\Debug\netcoreapp2.0\DemoReactTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\DemoReactTutorial\DemoReactTutorial\obj\Debug\netcoreapp2.0\DemoReactTutorial.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\DemoReactTutorial\DemoReactTutorial\obj\Debug\netcoreapp2.0\DemoReactTutorial.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\DemoReactTutorial\DemoReactTutorial\obj\Debug\netcoreapp2.0\DemoReactTutorial.dll
+C:\Users\Bruno\source\repos\DemoReactTutorial\DemoReactTutorial\obj\Debug\netcoreapp2.0\DemoReactTutorial.pdb
